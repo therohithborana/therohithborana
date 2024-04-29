@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohith Borana</h1>
-<h3 align="center">AIML 26' | ML Enthusiast | BIO-ML Research | Learning Skills</h3>
+<h3 align="center">AIML 26' | ML Enthusiast | BIO-ML Research | SaaS</h3>
 <img align="right" alt="Coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/037/650/865/original/aaron-j-charlie-background-gif.gif?1620933075">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=therohithborana&label=Profile%20views&color=0e75b6&style=flat" alt="therohithborana" /> </p>
