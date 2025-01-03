@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/therohithborana" target="blank"><img src="https://img.shields.io/twitter/follow/therohithborana?logo=twitter&style=for-the-badge" alt="therohithborana" /></a> </p>
 
-- 🔭 I’m currently working on **DrumCipher: Morse in Beats**
+- 🔭 I’m currently working on **Auth and Dashboards**
 
-- 🌱 I’m currently learning **Librosa,TensorFlow,Solana**
+- 🌱 I’m currently learning **DSA,DEVOPS**
 
 - 💬 Ask me about **Generative AI**
 
